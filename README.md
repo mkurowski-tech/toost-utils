@@ -6,7 +6,7 @@ are_same<T ... >	- like is_same but for many types
   
 sequence(T v)		- to short loops, for(auto i : sequence(6))
 
-series(T src, T dst)	- to short loops iterating over range, for(auto i : series('a','z'))
+series(T src, T dst)	- to short loops iterating over range, for(auto c : series('a','z'))
 
 randvector<T>		- vector with getting random element
   
