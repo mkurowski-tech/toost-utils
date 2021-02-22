@@ -1,6 +1,6 @@
 A few utils that was helpful for me
 
-make_string(T ... args)	- making string in place a few primary types
+make_string(T ... args)	- making string in place from values of primary types
 
 are_same<T ... >	- like is_same but for many types
   
