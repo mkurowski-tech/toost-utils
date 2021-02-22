@@ -6,7 +6,7 @@ are_same<T ... >	- like is_same but for many types
   
 sequence(T v)		- to short loops
 
-series(T src, T dst)	- to short loops getting range 
+series(T src, T dst)	- to short loops iterating over range 
 
 randvector<T>		- vector with getting random element
   
