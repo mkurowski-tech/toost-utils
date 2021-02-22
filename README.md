@@ -10,7 +10,7 @@ series(T src, T dst)	- to short loops iterating over range, for(auto c : series(
 
 randvector<T>		- vector with getting random element
   
-vectorfile<T>		- vecotr with writting and reading a file
+vectorfile<T>		- vector with writting and reading a file
 
 and math
 
