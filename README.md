@@ -13,4 +13,5 @@ randvector<T>		- vector with getting random element
 vectorfile<T>		- vecotr with writting and reading a file
 
 and math
+
 strong, tenpower and random permutation
